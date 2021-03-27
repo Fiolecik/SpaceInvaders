@@ -12,5 +12,4 @@ Project is created with:
 * Visual Studio Code 1.54.3
 	
 ## Setup
-To run this game 
-
+To run this game simplu click on SpaceInvaders.exe
